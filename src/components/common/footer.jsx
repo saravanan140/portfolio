@@ -25,6 +25,8 @@ const Footer = () => {
 							<Link to="/contact">Contact</Link>
 						</li>
 					</ul>
+					<p>Business name : SARAVANAN</p>
+					<p>Operational address : KANNAPPAN STREET, KOSAPET</p>
 				</div>
 
 				<div className="footer-credits">
