@@ -37,7 +37,7 @@ const INFO = {
 		{
 			title: "Project 1",
 			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
+				"Innovate and Connect: App Development for iOS and Android. Welcome to a world where possibilities unfold at your fingertips! At NovaCodeZ, we specialize in crafting seamless and innovative mobile applications for both iOS and Android platforms.",
 			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
 			linkText: "View Project",
 			link: "https://github.com",
@@ -46,7 +46,7 @@ const INFO = {
 		{
 			title: "Project 2",
 			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
+				"ERP Software for Schools and Colleges & Anti Cheat Exam Portal , developed an ERP which is flexible for schoool business",
 			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png",
 			linkText: "View Project",
 			link: "https://github.com",
@@ -55,7 +55,7 @@ const INFO = {
 		{
 			title: "Project 3",
 			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
+				"Focus on strengthening the organization's cybersecurity posture by implementing advanced security measures. This may include deploying next-gen firewalls, intrusion detection/prevention systems, conducting penetration testing, and enhancing employee cybersecurity awareness training. The goal is to safeguard sensitive data, protect against cyber threats, and ensure compliance with industry regulations.",
 			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/html/html.png",
 			linkText: "View Project",
 			link: "https://github.com",
@@ -64,7 +64,7 @@ const INFO = {
 		{
 			title: "Project 4",
 			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
+				"Leverage blockchain technology to enhance transparency, traceability, and security in the supply chain. Implement a decentralized ledger system to track the flow of goods from manufacturing to delivery, reducing fraud, errors, and inefficiencies. Smart contracts can automate and validate transactions, fostering trust among stakeholders and improving overall supply chain efficiency.",
 			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
 			linkText: "View Project",
 			link: "https://github.com",
@@ -73,7 +73,7 @@ const INFO = {
 		{
 			title: "Project 5",
 			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
+				"Create a centralized data analytics and business intelligence platform to gather insights from various data sources within the organization. Implement data visualization tools, such as Tableau or Power BI, to create interactive dashboards and reports. This project aims to empower decision-makers with real-time data, improve data-driven decision-making processes, and identify trends that can drive business strategy and innovation.",
 			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
 			linkText: "View Project",
 			link: "https://github.com",
